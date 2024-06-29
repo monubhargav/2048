@@ -35,7 +35,7 @@ To run this game on your local machine, follow these steps:
 Clone this repository:
 
 
-`git clone https://github.com/niku-raaz/2048.git`
+`git clone https://github.com/monubhargav/2048.git`
 
 `cd 2048`
 
@@ -46,7 +46,7 @@ Install the required dependencies:
 
 Usage
 
-To start the game, run the 2048.py file:
+To start the game, run the main.py file:
 
 `python 2048.py`
 
